@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">14) 14July_Get_List_Of_Albums_You1</string>
+    <string name="id">id</string>
+    <string name="title">title</string>
+    <string name="fetch">Fetch</string>
+    <string name="enter_the_id">Enter the id</string>
+</resources>

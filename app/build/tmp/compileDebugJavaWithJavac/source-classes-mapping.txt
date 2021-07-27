@@ -1,0 +1,15 @@
+com/masai/a1414july_get_list_of_albums_you1/ResponseModel.java
+ com.masai.a1414july_get_list_of_albums_you1.ResponseModel
+com/masai/a1414july_get_list_of_albums_you1/Network.java
+ com.masai.a1414july_get_list_of_albums_you1.Network
+com/masai/a1414july_get_list_of_albums_you1/ApiService.java
+ com.masai.a1414july_get_list_of_albums_you1.ApiService
+com/masai/a1414july_get_list_of_albums_you1/BuildConfig.java
+ com.masai.a1414july_get_list_of_albums_you1.BuildConfig
+com/masai/a1414july_get_list_of_albums_you1/AlbumAdapter.java
+ com.masai.a1414july_get_list_of_albums_you1.AlbumAdapter
+com/masai/a1414july_get_list_of_albums_you1/MainActivity.java
+ com.masai.a1414july_get_list_of_albums_you1.MainActivity
+ com.masai.a1414july_get_list_of_albums_you1.MainActivity$1
+com/masai/a1414july_get_list_of_albums_you1/AlbumViewHolder.java
+ com.masai.a1414july_get_list_of_albums_you1.AlbumViewHolder
